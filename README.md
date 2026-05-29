@@ -1,6 +1,6 @@
 # GLICOSE
 
-Jogo de plataforma 2D feito inteiramente com ferramentas de inteligência artificial para um trabalho de faculdade. O desenvolvimento foi conduzido usando Claude Code como principal ferramenta de refinamento, balanceamento, correção de bugs e melhorias gerais — sem uma linha de código escrita manualmente.
+Jogo de plataforma 2D feito inteiramente com ferramentas de inteligência artificial para um trabalho de faculdade. O desenvolvimento foi conduzido usando Claude Code como principal agente de refinamento, balanceamento, correção de bugs e melhorias gerais dentro do AntiGravity — sem uma linha de código escrita manualmente.
 
 ## Sobre o projeto
 
